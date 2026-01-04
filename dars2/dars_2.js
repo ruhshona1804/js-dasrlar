@@ -1,0 +1,1 @@
+// Javascript boyicha masalalar;
